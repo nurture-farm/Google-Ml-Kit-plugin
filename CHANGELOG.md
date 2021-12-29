@@ -75,4 +75,7 @@
 
 ## 0.7.3
 * Increase android sdk compile version to 31
-* Add android support for text-recognition v2 
+* Add android support for text-recognition v2
+
+## 0.7.3+1 (Interal)
+* Adding mandatory shipping of barcode reader model with the APK
